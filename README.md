@@ -17,11 +17,11 @@ Number and name of feature: Feature #1: Refactor the CSS
 
 Estimate of time needed to complete: 3 hours
 
-Start time: _____
+Start time: 1:00
 
-Finish time: _____
+Finish time: 2:30
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1.5 hours
 
 #Feature #2: Modify the contents
 Why are we implementing this feature?
@@ -51,4 +51,9 @@ Start time: _____
 
 Finish time: _____
 
-Actual time needed to complete: _____
+Actual time needed to complete: 
+
+Photo sources:
+https://unsplash.com/photos/78A265wPiO4
+https://unsplash.com/photos/7hy971VUte0
+https://unsplash.com/photos/tz87qQK9n58

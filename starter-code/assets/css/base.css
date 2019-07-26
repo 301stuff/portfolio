@@ -113,6 +113,7 @@ input, select, textarea {
 		font-weight: 300;
 		color: #666;
 		line-height: 1.5em;
+		font-family: 'Acme', sans-serif;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -203,6 +204,9 @@ input, select, textarea {
 
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
+	}
+	p {
+		font-family: 'Open Sans', sans-serif;
 	}
 
 	br.clear {
