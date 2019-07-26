@@ -43,17 +43,17 @@ Change the content and images to reflect your personal preferences. If you are u
 Update the list of social media icons with your links using icons for your favorite social media sites from IcoMoon or Font Awesome.
 Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
 
-Number and name of feature: ________________________________
+Number and name of feature: Feature #2: Modify the contents
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 3
 
-Start time: _____
+Start time: 6
 
-Finish time: _____
+Finish time: 8
 
-Actual time needed to complete: 
+Actual time needed to complete: 2 hours
 
-Photo sources:
+#Photo sources:
 https://unsplash.com/photos/78A265wPiO4
 https://unsplash.com/photos/7hy971VUte0
 https://unsplash.com/photos/tz87qQK9n58
